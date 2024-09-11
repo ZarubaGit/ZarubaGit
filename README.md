@@ -1,5 +1,5 @@
 ### Привет! 👋  
-Меня зовут Никита Заруба, и я Android developer.
+Меня зовут Никита Заруба, я Android developer.
 
 ### 🛠️ Языки и инструменты:
 ![Kotlin](https://img.shields.io/badge/Kotlin-007ACC?style=flat&logo=kotlin&logoColor=white)
