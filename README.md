@@ -1,16 +1,13 @@
-## Hi there 👋
+### Привет! 👋  
+Меня зовут Никита Заруба, и я Android developer.
 
-<!--
-**ZarubaGit/ZarubaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Языки и инструменты:
+![Kotlin](https://img.shields.io/badge/Kotlin-007ACC?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-Here are some ideas to get you started:
+### 🔧 Технологии, которые я использую:
+Kotlin, MVVM, Retrofit, JSON, Gide, Koin, Coroutines, Flow, Room, XML, Clean Architecture, Jetpack Navigation Component
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Как со мной связаться:
+- [Telegram](https://t.me/Nazari4)  
+- Email: zaruba.nikit@yandex.ru
