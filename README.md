@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ### 🔧 Технологии, которые я использую:
-Kotlin, MVVM, Retrofit, JSON, Gide, Koin, Coroutines, Flow, Room, XML, Clean Architecture, Jetpack Navigation Component
+Kotlin, MVVM, Retrofit, JSON, Gide, Koin, Coroutines, Flow, Room, XML, Clean Architecture, Jetpack Navigation Component, Jetpack Compose
 
 ### 📫 Как со мной связаться:
 - [Telegram](https://t.me/Nazari4)  
